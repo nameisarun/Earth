@@ -1,2 +1,2 @@
-# Eartth
+# Earth
 Test repository
